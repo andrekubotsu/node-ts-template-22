@@ -10,3 +10,4 @@
 8. `npm i -D husky` - helps to verify linting and tests before commits
 9. `npm i -D lint-staged`
 10. `npm i -D jest @types/jest ts-jest`
+11. `npm i -D ts-node`
