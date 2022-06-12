@@ -1,4 +1,8 @@
-# Environment Configuration
+# Typescript Node Projet Template 2022
+
+I did this for personal use. Feel free to make it better and contribute!
+
+## Environment Configuration (manually)
 
 1. `git init`
 2. `npm init`
