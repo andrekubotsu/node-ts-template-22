@@ -7,3 +7,5 @@
 5. `npx tsc init`
 6. `npm i -D eslint`
 7. `npx eslint --init` or `npm init @eslint/config`
+8. `npm i -D husky` - helps to verify linting and tests before commits
+9. `npm i -D lint-staged`
