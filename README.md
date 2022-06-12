@@ -1,4 +1,4 @@
-# Typescript Node Projet Template 2022
+# Typescript Node Project Template 2022
 
 I did this for personal use. Feel free to make it better and contribute!
 
