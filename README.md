@@ -1,4 +1,4 @@
-# Typescript Node Project Template 2022
+# Typescript Node Project Template/Boilerplate 2022
 
 I did this for personal use. Feel free to make it better and contribute!
 
@@ -15,3 +15,4 @@ I did this for personal use. Feel free to make it better and contribute!
 9. `npm i -D lint-staged`
 10. `npm i -D jest @types/jest ts-jest`
 11. `npm i -D ts-node`
+12. `npm i -D nodemon`
